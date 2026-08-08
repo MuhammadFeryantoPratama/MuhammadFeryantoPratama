@@ -28,8 +28,7 @@
 <tr>
 <td width="60%">
 
-I'm a Computer Science student and Software Engineer
-who enjoys turning ideas into real-world digital products.
+I'm a Computer Science student at Universitas Lambung Mangkurat who enjoys turning ideas into real-world digital products. I actively participate in technology competitions and hackathons, where I challenge myself to build innovative solutions and grow as a Software Engineer.
 
 I focus on:
 
@@ -43,10 +42,6 @@ Currently exploring **AI Engineering, System Design,
 Cloud Infrastructure and scalable backend architecture.**
 
 </td>
-
-<td width="40%" align="center">
-
-<img src="my.png"/>
 
 </td>
 </tr>
@@ -103,74 +98,6 @@ Cloud Infrastructure and scalable backend architecture.**
 <img src="https://img.shields.io/badge/VS_Code-0F172A?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
 </p>
 
----
-
----
-
-<!-- ========================================= -->
-<!--            FEATURED PROJECTS              -->
-<!-- ========================================= -->
-
-<h2>⭐ Featured Projects</h2>
-
-<table>
-<tr>
-
-<td width="50%">
-
-### 🎮 Melody
-
-Audio-based puzzle game where players
-solve puzzles by recognizing melodies,
-sounds and musical patterns.
-
-`React` `TypeScript` `Tailwind CSS`
-
-</td>
-
-<td width="50%">
-
-### 🏋️ FitDaily
-
-Fitness tracking and healthy lifestyle
-platform for managing workouts and
-personal progress.
-
-`PHP` `CodeIgniter 4` `Bootstrap`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### ⚔️ Genshin Character
-
-Interactive Genshin Impact character
-website with modern UI and animations.
-
-`Next.js` `TypeScript` `Tailwind CSS`
-
-</td>
-
-<td width="50%">
-
-### 🎵 MoodGenre
-
-Music recommendation system designed
-to recommend songs based on user
-preferences and genre.
-
-`Python` `Machine Learning`
-
-</td>
-
-</tr>
-</table>
-
----
 
 
 <!-- ========================================= -->
