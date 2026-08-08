@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Muhammad%20Feryanto%20Pratama&fontSize=35&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20SaaS%20Builder%20%E2%80%A2%20UI%2FUX&descAlignY=60&descSize=16&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Muhammad%20Feryanto%20Pratama&fontSize=35&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20SaaS%20Builder&descAlignY=60&descSize=16&animation=fadeIn"/>
 
 <br>
 
@@ -52,7 +52,6 @@ I focus on:
 - 🚀 Modern Web Development
 - 🧩 SaaS Product Development
 - 🤖 AI-powered Applications
-- 🎨 UI/UX & Product Design
 - ⚙️ Backend & REST API
 - ☁️ Deployment & Infrastructure
 
