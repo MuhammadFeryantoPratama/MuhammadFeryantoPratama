@@ -46,7 +46,7 @@ Cloud Infrastructure and scalable backend architecture.**
 
 <td width="40%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MuhammadFeryantoPratama&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1&rank_icon=github"/>
+<img src="my.png"/>
 
 </td>
 </tr>
