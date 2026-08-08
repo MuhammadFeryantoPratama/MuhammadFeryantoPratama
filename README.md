@@ -38,8 +38,8 @@ I focus on:
 - ⚙️ Backend & REST API
 - ☁️ Deployment & Infrastructure
 
-Currently exploring **AI Engineering, System Design,
-Cloud Infrastructure and scalable backend architecture.**
+Currently exploring **AI Engineering, Web3 & Blockchain, and Software Engineering**, 
+while building projects and continuously expanding my technical skills.
 
 </td>
 
