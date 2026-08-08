@@ -12,22 +12,6 @@
 
 <br>
 
-<a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="YOUR_TIKTOK">
-<img src="https://img.shields.io/badge/TikTok-111827?style=for-the-badge&logo=tiktok&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-334155?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
 </div>
 
 <br>
@@ -121,59 +105,6 @@ Cloud Infrastructure and scalable backend architecture.**
 
 ---
 
-<!-- ========================================= -->
-<!--          CURRENTLY BUILDING               -->
-<!-- ========================================= -->
-
-<h2>🚀 Currently Building</h2>
-
-<table>
-<tr>
-
-<td width="50%">
-
-<h3>🤖 ravexyCV</h3>
-
-<b>AI Recruitment Hub</b>
-
-<br><br>
-
-AI-powered recruitment platform that helps
-recruiters collect, parse, match, score and
-rank candidates.
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Next.js-0F172A?style=flat-square&logo=next.js"/>
-<img src="https://img.shields.io/badge/TypeScript-0F172A?style=flat-square&logo=typescript"/>
-<img src="https://img.shields.io/badge/Node.js-0F172A?style=flat-square&logo=node.js"/>
-<img src="https://img.shields.io/badge/PostgreSQL-0F172A?style=flat-square&logo=postgresql"/>
-
-</td>
-
-<td width="50%">
-
-<h3>🤝 Cholix</h3>
-
-<b>Competition & Research Platform</b>
-
-<br><br>
-
-A platform for students and lecturers
-to find competition teammates and
-research partners.
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Next.js-0F172A?style=flat-square&logo=next.js"/>
-<img src="https://img.shields.io/badge/TypeScript-0F172A?style=flat-square&logo=typescript"/>
-<img src="https://img.shields.io/badge/PostgreSQL-0F172A?style=flat-square&logo=postgresql"/>
-
-</td>
-
-</tr>
-</table>
-
 ---
 
 <!-- ========================================= -->
@@ -241,21 +172,6 @@ preferences and genre.
 
 ---
 
-<!-- ========================================= -->
-<!--              GITHUB STATS                 -->
-<!-- ========================================= -->
-
-<h2>📊 GitHub Analytics</h2>
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=MuhammadFeryantoPratama&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadFeryantoPratama&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8"/>
-
-</div>
-
----
 
 <!-- ========================================= -->
 <!--          CONTRIBUTION GRAPH               -->
@@ -271,19 +187,6 @@ preferences and genre.
 
 ---
 
-<!-- ========================================= -->
-<!--          PAGESPEED INSIGHTS               -->
-<!-- ========================================= -->
-
-<h2>🚀 PageSpeed Insights</h2>
-
-<div align="center">
-
-<img src="pagespeed.svg" alt="PageSpeed Insights"/>
-
-</div>
-
----
 
 <!-- ========================================= -->
 <!--          CONTRIBUTION SNAKE               -->
