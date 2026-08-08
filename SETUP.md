@@ -6,10 +6,17 @@ Aku sudah menyalin dan menyiapkan konfigurasi yang kamu butuhkan. Berikut adalah
 
 ## Langkah-langkah:
 
-### 1. Ubah URL PageSpeed Insights
-Aku telah menambahkan GitHub Actions untuk _PageSpeed Insights_.
-1. Buka file `.github/workflows/pagespeed.yml`
-2. Pada bagian `plugin_pagespeed_url:`, ganti `https://your-website.com` dengan URL website aslimu (misalnya website portofolio).
+### 1. Ubah URL PageSpeed Insights & Fix Error 429
+Aku telah menambahkan GitHub Actions untuk _PageSpeed Insights_. Namun, dari gambarmu terlihat ada **API error: 429**, ini artinya server GitHub Actions terlalu sering request ke Google tanpa kunci pengenal (token), sehingga diblokir sementara.
+
+Untuk mengatasinya, kamu butuh **PageSpeed API Token**:
+1. Buka browser dan pergi ke halaman Google Cloud Console PageSpeed API: [Get a Key](https://developers.google.com/speed/docs/insights/v5/get-started#APIKey).
+2. Klik tombol **Get a Key**, buat/pilih project, lalu copy **API Key** yang diberikan.
+3. Buka repository GitHub-mu, masuk ke **Settings** > **Secrets and variables** > **Actions**.
+4. Klik tombol hijau **New repository secret**.
+5. Isi **Name** dengan `PAGESPEED_TOKEN` (huruf besar semua).
+6. Paste API Key kamu di kolom **Secret**, lalu klik **Add secret**.
+7. Terakhir, buka file `.github/workflows/pagespeed.yml` di VS Code, pada bagian `plugin_pagespeed_url:`, ganti `https://your-website.com` dengan URL website aslimu (misalnya website portofolio).
 
 ### 2. Push ke GitHub
 Karena ini menggunakan **GitHub Actions** untuk men-generate gambar PageSpeed dan animasi Snake, maka kamu harus meng-upload (*push*) repository ini ke GitHub milikmu.

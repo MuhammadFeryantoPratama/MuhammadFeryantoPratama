@@ -294,7 +294,7 @@ preferences and genre.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MuhammadFeryantoPratama/MuhammadFeryantoPratama/output/github-contribution-grid-snake.svg" alt="Contribution Grid Snake"/>
+<img src="https://raw.githubusercontent.com/MuhammadFeryantoPratama/MuhammadFeryantoPratama/output/github-contribution-grid-snake-dark.svg" alt="Contribution Grid Snake"/>
 
 </div>
 
