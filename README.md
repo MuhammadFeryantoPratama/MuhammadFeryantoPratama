@@ -93,13 +93,21 @@ Cloud Infrastructure and scalable backend architecture.**
 <img src="https://img.shields.io/badge/Nginx-0F172A?style=for-the-badge&logo=nginx&logoColor=009639"/>
 </p>
 
+<h3>AI & Web3</h3>
+
+<p>
+<img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/OpenAI-0F172A?style=for-the-badge&logo=openai&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Solidity-0F172A?style=for-the-badge&logo=solidity&logoColor=363636"/>
+<img src="https://img.shields.io/badge/Ethereum-0F172A?style=for-the-badge&logo=ethereum&logoColor=3C3C3D"/>
+</p>
+
 <h3>Tools</h3>
 
 <p>
 <img src="https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=F05032"/>
 <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Postman-0F172A?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
-<img src="https://img.shields.io/badge/Figma-0F172A?style=for-the-badge&logo=figma&logoColor=F24E1E"/>
 <img src="https://img.shields.io/badge/VS_Code-0F172A?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
 </p>
 
