@@ -12,22 +12,6 @@
 
 <br>
 
-<a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="YOUR_TIKTOK">
-<img src="https://img.shields.io/badge/TikTok-111827?style=for-the-badge&logo=tiktok&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-334155?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
 </div>
 
 <br>
@@ -242,21 +226,6 @@ preferences and genre.
 
 ---
 
-<!-- ========================================= -->
-<!--              GITHUB STATS                 -->
-<!-- ========================================= -->
-
-<h2>📊 GitHub Analytics</h2>
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=MuhammadFeryantoPratama&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadFeryantoPratama&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8"/>
-
-</div>
-
----
 
 <!-- ========================================= -->
 <!--          CONTRIBUTION GRAPH               -->
@@ -272,19 +241,6 @@ preferences and genre.
 
 ---
 
-<!-- ========================================= -->
-<!--          PAGESPEED INSIGHTS               -->
-<!-- ========================================= -->
-
-<h2>🚀 PageSpeed Insights</h2>
-
-<div align="center">
-
-<img src="pagespeed.svg" alt="PageSpeed Insights"/>
-
-</div>
-
----
 
 <!-- ========================================= -->
 <!--          CONTRIBUTION SNAKE               -->
