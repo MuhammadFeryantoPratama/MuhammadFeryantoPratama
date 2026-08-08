@@ -28,25 +28,21 @@
 <tr>
 <td width="60%">
 
-I'm a Computer Science student and Software Engineer
-who enjoys turning ideas into real-world digital products.
+I'm a Computer Science student at Universitas Lambung Mangkurat who enjoys turning ideas into real-world digital products. I actively participate in technology competitions and hackathons, where I challenge myself to build innovative solutions and grow as a Software Engineer.
 
 I focus on:
 
-- 🚀 Modern Web Development
+- 🚀 Full-Stack Web Development
 - 🧩 SaaS Product Development
 - 🤖 AI-powered Applications
+- ⛓️ Web3 & Blockchain Development
 - ⚙️ Backend & REST API
 - ☁️ Deployment & Infrastructure
 
-Currently exploring **AI Engineering, System Design,
-Cloud Infrastructure and scalable backend architecture.**
+Currently exploring **AI Engineering, Web3 & Blockchain, and Software Engineering**, 
+while building projects and continuously expanding my technical skills.
 
 </td>
-
-<td width="40%" align="center">
-
-<img src="my.png"/>
 
 </td>
 </tr>
@@ -111,74 +107,6 @@ Cloud Infrastructure and scalable backend architecture.**
 <img src="https://img.shields.io/badge/VS_Code-0F172A?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
 </p>
 
----
-
----
-
-<!-- ========================================= -->
-<!--            FEATURED PROJECTS              -->
-<!-- ========================================= -->
-
-<h2>⭐ Featured Projects</h2>
-
-<table>
-<tr>
-
-<td width="50%">
-
-### 🎮 Melody
-
-Audio-based puzzle game where players
-solve puzzles by recognizing melodies,
-sounds and musical patterns.
-
-`React` `TypeScript` `Tailwind CSS`
-
-</td>
-
-<td width="50%">
-
-### 🏋️ FitDaily
-
-Fitness tracking and healthy lifestyle
-platform for managing workouts and
-personal progress.
-
-`PHP` `CodeIgniter 4` `Bootstrap`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### ⚔️ Genshin Character
-
-Interactive Genshin Impact character
-website with modern UI and animations.
-
-`Next.js` `TypeScript` `Tailwind CSS`
-
-</td>
-
-<td width="50%">
-
-### 🎵 MoodGenre
-
-Music recommendation system designed
-to recommend songs based on user
-preferences and genre.
-
-`Python` `Machine Learning`
-
-</td>
-
-</tr>
-</table>
-
----
 
 
 <!-- ========================================= -->
@@ -210,21 +138,6 @@ preferences and genre.
 
 ---
 
-<!-- ========================================= -->
-<!--            CURRENTLY LEARNING             -->
-<!-- ========================================= -->
-
-<h2>🌱 Currently Learning</h2>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/System_Design-0F172A?style=for-the-badge&logo=diagramsdotnet&logoColor=38BDF8"/>
-<img src="https://img.shields.io/badge/AI_Engineering-0F172A?style=for-the-badge&logo=openai&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Cloud-0F172A?style=for-the-badge&logo=icloud&logoColor=38BDF8"/>
-<img src="https://img.shields.io/badge/Distributed_Systems-0F172A?style=for-the-badge&logo=serverfault&logoColor=38BDF8"/>
-
-</p>
-
 ---
 
 <!-- ========================================= -->
@@ -233,11 +146,8 @@ preferences and genre.
 
 <div align="center">
 
-<h3>💙 Building ideas into products.</h3>
+<h3>Building ideas into products.</h3>
 
-<p>
-If you have an interesting idea, let's build it together.
-</p>
 
 <br>
 
