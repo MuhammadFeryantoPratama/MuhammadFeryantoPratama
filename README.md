@@ -32,9 +32,10 @@ I'm a Computer Science student at Universitas Lambung Mangkurat who enjoys turni
 
 I focus on:
 
-- 🚀 Modern Web Development
+- 🚀 Full-Stack Web Development
 - 🧩 SaaS Product Development
 - 🤖 AI-powered Applications
+- ⛓️ Web3 & Blockchain Development
 - ⚙️ Backend & REST API
 - ☁️ Deployment & Infrastructure
 
