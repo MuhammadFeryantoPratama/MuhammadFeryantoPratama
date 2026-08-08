@@ -273,6 +273,20 @@ preferences and genre.
 ---
 
 <!-- ========================================= -->
+<!--          PAGESPEED INSIGHTS               -->
+<!-- ========================================= -->
+
+<h2>🚀 PageSpeed Insights</h2>
+
+<div align="center">
+
+<img src="pagespeed.svg" alt="PageSpeed Insights"/>
+
+</div>
+
+---
+
+<!-- ========================================= -->
 <!--          CONTRIBUTION SNAKE               -->
 <!-- ========================================= -->
 
@@ -280,7 +294,7 @@ preferences and genre.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MuhammadFeryantoPratama/MuhammadFeryantoPratama/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/MuhammadFeryantoPratama/MuhammadFeryantoPratama/output/github-contribution-grid-snake.svg" alt="Contribution Grid Snake"/>
 
 </div>
 

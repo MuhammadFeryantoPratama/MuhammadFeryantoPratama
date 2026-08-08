@@ -1,0 +1,23 @@
+name: Metrics
+on:
+  # Schedule daily updates
+  schedule: [{cron: "0 0 * * *"}]
+  # (optional) Run workflow manually
+  workflow_dispatch:
+  # (optional) Run workflow when pushing on master/main
+  push: {branches: ["master", "main"]}
+jobs:
+  pagespeed:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: PageSpeed Insights
+        uses: lowlighter/metrics@latest
+        with:
+          filename: pagespeed.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_pagespeed: yes
+          plugin_pagespeed_detailed: yes
+          plugin_pagespeed_url: https://your-website.com # CHANGE THIS TO YOUR WEBSITE URL
