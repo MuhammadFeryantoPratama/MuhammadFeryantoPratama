@@ -105,6 +105,7 @@ while building projects and continuously expanding my technical skills.
 <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Postman-0F172A?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
 <img src="https://img.shields.io/badge/VS_Code-0F172A?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
+<img src="https://img.shields.io/badge/Antigravity-0F172A?style=for-the-badge&logo=googlegemini&logoColor=8E75B2"/>
 </p>
 
 
