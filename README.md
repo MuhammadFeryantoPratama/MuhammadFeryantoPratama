@@ -129,21 +129,6 @@ while building projects and continuously expanding my technical skills.
 
 ---
 
-<!-- ========================================= -->
-<!--            CURRENTLY LEARNING             -->
-<!-- ========================================= -->
-
-<h2>🌱 Currently Learning</h2>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/System_Design-0F172A?style=for-the-badge&logo=diagramsdotnet&logoColor=38BDF8"/>
-<img src="https://img.shields.io/badge/AI_Engineering-0F172A?style=for-the-badge&logo=openai&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Cloud-0F172A?style=for-the-badge&logo=icloud&logoColor=38BDF8"/>
-<img src="https://img.shields.io/badge/Distributed_Systems-0F172A?style=for-the-badge&logo=serverfault&logoColor=38BDF8"/>
-
-</p>
-
 ---
 
 <!-- ========================================= -->
@@ -152,11 +137,8 @@ while building projects and continuously expanding my technical skills.
 
 <div align="center">
 
-<h3>💙 Building ideas into products.</h3>
+<h3>Building ideas into products.</h3>
 
-<p>
-If you have an interesting idea, let's build it together.
-</p>
 
 <br>
 
