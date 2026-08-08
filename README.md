@@ -137,15 +137,6 @@ while building projects and continuously expanding my technical skills.
 
 </div>
 
----
-
----
-
-<!-- ========================================= -->
-<!--                  FOOTER                   -->
-<!-- ========================================= -->
-
-<div align="center">
 
 <h3>Building ideas into products.</h3>
 
